@@ -93,7 +93,7 @@ Turmas
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
 |    |    |    | 01 | 02 |
-| ![05Jun](https://placehold.co/25/red/white?text=05) | 06 | 07 | ![08Jun](https://placehold.co/25/cornflowerblue/white?text=21) | ![09Jun](https://placehold.co/25/cornflowerblue/white?text=09) |
+| ![05Jun](https://placehold.co/25/red/white?text=05) | 06 | 07 | ![08Jun](https://placehold.co/25/cornflowerblue/white?text=08) | ![09Jun](https://placehold.co/25/cornflowerblue/white?text=09) |
 | ![12Jun](https://placehold.co/25/limegreen/white?text=12) | 13 | 14 | 15 | 16 |
 | ![19Jun](https://placehold.co/25/red/white?text=19) | 20 | 21 | 22 | 23 |
 | 26 | 27 | 28 | 29 | 30 |
